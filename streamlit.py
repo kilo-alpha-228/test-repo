@@ -1,10 +1,10 @@
 import streamlit as st
 # import boto3
-from openai import OpenAI
-import pandas as pd
+# from openai import OpenAI
+# import pandas as pd
 import uuid
 from datetime import datetime
-import os
+# import os
 
 # OpenAIクライアントを生成
 version = "1.2025.1001.1810"
